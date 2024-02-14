@@ -14,4 +14,4 @@ resultado_flotante = float(numero) * 2
 
 #monstrando el resultado
 
-print(resultado)
+print(resultado_flotante)
